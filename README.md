@@ -14,6 +14,10 @@ A table of contents can go here with links to all the specific blog entries usin
 
 Then all the blog entries can get copied from the finished-stuff/ directory and put below with corresponding links via the update_readme.sh script.
 
+***
+
+(dummy text below)
+
 Blog Entry One Title
 
 Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus
